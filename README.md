@@ -1,5 +1,4 @@
-## Project View
-
-<kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799526/test/quickSell2_pjyru9.png)</kbd>
-
-<kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799514/test/quickSell_nycbcs.png)</kbd>
+To use this after opening the file in VS code install the node_modules by 
+npm install react-scripts --save-dev
+Then
+npm start
